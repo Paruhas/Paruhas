@@ -42,7 +42,7 @@ I'm beginner programer who start learning web development full-stack and want to
 <p>📧 paruhas.c@outlook.com</p>
 
 <a href="https://www.linkedin.com/in/paruhas-charoenrat-5a24181a3">
-  <img src="https://www.blognone.com/sites/default/files/styles/large/public/topics-images/linkedin.png?itok=TgYLz8se" alt="LinkedIn_Profile" />
+  <img src="https://github.com/Paruhas/Paruhas/blob/main/Img/Linkedin-logo.png?raw=true" alt="LinkedIn_Profile" style="width:100px;"/>
 </a>
 
 <!--
