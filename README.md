@@ -41,8 +41,7 @@ I'm beginner programer who start learning web development full-stack and want to
 <p>📞 082-321-4566</p>
 <p>📧 paruhas.c@outlook.com</p>
 
-![](www.linkedin.com/in/paruhas-charoenrat-5a24181a3)
-![test](https://www.blognone.com/sites/default/files/styles/large/public/topics-images/linkedin.png?itok=TgYLz8se)
+![www.linkedin.com/in/paruhas-charoenrat-5a24181a3](https://www.blognone.com/sites/default/files/styles/large/public/topics-images/linkedin.png?itok=TgYLz8se)
 
 <!--
 **Paruhas/Paruhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
