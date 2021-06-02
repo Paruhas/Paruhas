@@ -4,6 +4,7 @@ I'm beginner programer who start learning web development full-stack and want to
 
 <details>
   <summary>Personal Information</summary>
+  <br>
   <p>Name: Paruhas Charoenrat<p>
   <p>Location: Pathum Thani, Thailand.<p>
   <p>Languages:</p>
