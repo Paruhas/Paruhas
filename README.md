@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello, My name's Paruhas Charoenrat (Bank) 👋
+
+I'm beginner programer who start learning web development full-stack and want to learn more programing language.
 
 <!--
 **Paruhas/Paruhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
