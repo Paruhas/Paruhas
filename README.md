@@ -1,4 +1,4 @@
-## Hello, My name's Paruhas Charoenrat (Bank) 👋
+## 👋 Hello, My name's Paruhas Charoenrat (Bank)
 
 I'm beginner programer who start learning web development full-stack and want to learn more programing language.
 
@@ -16,13 +16,17 @@ I'm beginner programer who start learning web development full-stack and want to
 </details>
 
 <details>
-  <summary>Epcot Center</summary>
-  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
-</details>
-
-<details>
-  <summary>Epcot Center</summary>
-  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+  <summary>Programming languages & Skills</summary>
+  <br>
+  <ul>
+    <li>HTML, CSS, JavaScript</li>
+    <ui>Front-end Development</ui>
+      <li>ReactJS</li>
+    <ui>Back-end Development</ui>
+      <li>NodeJS</li>
+      <li>ExpressJS</li>
+      <li>Database : MySQL, Sequelize</li>
+  </ul>
 </details>
 
 <!--
