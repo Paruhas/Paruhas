@@ -44,7 +44,7 @@ I'm beginner programer who start learning web development full-stack and want to
 ![www.linkedin.com/in/paruhas-charoenrat-5a24181a3](https://www.blognone.com/sites/default/files/styles/large/public/topics-images/linkedin.png?itok=TgYLz8se)
 
 <a href="www.linkedin.com/in/paruhas-charoenrat-5a24181a3">
-  <img src="www.linkedin.com/in/paruhas-charoenrat-5a24181a3" alt="LinkedIn_Profile" />
+  <img src="https://www.blognone.com/sites/default/files/styles/large/public/topics-images/linkedin.png?itok=TgYLz8se" alt="LinkedIn_Profile" />
 </a>
 
 <!--
