@@ -40,6 +40,7 @@ I'm beginner programer who start learning web development full-stack and want to
 
 📞 082-321-4566
 📧 paruhas.c@outlook.com
+[LinkedIn](www.linkedin.com/in/paruhas-charoenrat-5a24181a3)
 
 <!--
 **Paruhas/Paruhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
