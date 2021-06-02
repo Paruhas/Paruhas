@@ -7,9 +7,11 @@ I'm beginner programer who start learning web development full-stack and want to
   <p>Name: Paruhas Charoenrat<p>
   <p>Location: Pathum Thani, Thailand.<p>
   <p>Languages:</p>
-  <p>- Thai (Native)</p>
-  <p>- English (Intermediate)</p>
-  <p>- Japanese (Beginner)</p>
+  <ul>
+    <li>Thai (Native)</li>
+    <li>English (Intermediate)</li>
+    <li>Japanese (Beginner)</li>
+  </ul>
 </details>
 
 <details>
