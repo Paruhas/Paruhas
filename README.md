@@ -3,7 +3,7 @@
 I'm beginner programer who start learning web development full-stack and want to learn more programing language.
 
 <details>
-  <summary>Personal Information</summary>
+  <summary>📋 Personal Information</summary>
   <br>
   <p>Name: Paruhas Charoenrat<p>
   <p>Location: Pathum Thani, Thailand.<p>
@@ -16,7 +16,7 @@ I'm beginner programer who start learning web development full-stack and want to
 </details>
 
 <details>
-  <summary>Programming languages & Skills</summary>
+  <summary>💻 Programming languages & Skills</summary>
   <br>
   <ul>
     <li>HTML, CSS, JavaScript</li>
@@ -35,6 +35,11 @@ I'm beginner programer who start learning web development full-stack and want to
     <br>
   </ul>
 </details>
+
+# 👉 Contact me
+
+📞 082-321-4566
+📧 paruhas.c@outlook.com
 
 <!--
 **Paruhas/Paruhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
