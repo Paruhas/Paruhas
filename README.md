@@ -20,16 +20,19 @@ I'm beginner programer who start learning web development full-stack and want to
   <br>
   <ul>
     <li>HTML, CSS, JavaScript</li>
+    <br>
     <li>Front-end Development</li>
     <ul>
       <li>ReactJS</li>
     </ul>
+    <br>
     <li>Back-end Development</li>
     <ul>
       <li>NodeJS</li>
       <li>ExpressJS</li>
       <li>Database : MySQL, Sequelize</li>
     </ul>
+    <br>
   </ul>
 </details>
 
