@@ -18,16 +18,14 @@ I'm a Backend developer with some experience and some basic skills in Frontend. 
 <details>
   <summary>💻 Programming languages & Skills</summary>
   <br>
-  <ul>
-    <li>HTML</li>
-    <li>CSS (Tailwinds - basic)</li>
-    <li>JavaScript</li>
-    <li>TypeScript (basic)</li>
-    <li>PHP (basic)</li>
-    <li>C# (basic)</li>
-    <li>TypeScript (basic)</li>
-    <li>TypeScript (basic)</li>
-    <li>TypeScript (basic)</li>
+    <ul>
+      <li>HTML</li>
+      <li>CSS (Tailwinds - basic)</li>
+      <li>JavaScript</li>
+      <li>TypeScript (basic)</li>
+      <li>PHP (basic)</li>
+      <li>C# (basic)</li>
+    </ul>
     <br>
     <li>Front-end Stack</li>
     <ul>
