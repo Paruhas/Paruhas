@@ -21,7 +21,7 @@ I'm a Backend developer with some experience and some basic skills in Frontend. 
     <p># Programming Language</p>
     <ul>
       <li>HTML</li>
-      <li>CSS (Tailwinds - basic)</li>
+      <li>CSS</li>
       <li>JavaScript</li>
       <li>TypeScript (basic)</li>
       <li>PHP (basic)</li>
@@ -55,7 +55,7 @@ I'm a Backend developer with some experience and some basic skills in Frontend. 
     <ul>
       <li>Ubuntu, Linux, Nginx, Pm2</li>
       <li>Digital Ocean (create cloud server for deploy and running project)</li>
-      <li>Cloundflare (manage record for redirect IP to Domain name)</li>
+      <li>Cloudflare (manage record for redirect IP to Domain name)</li>
     </ul>
     <br>
   </ul>
