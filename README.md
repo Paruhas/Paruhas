@@ -18,6 +18,7 @@ I'm a Backend developer with some experience and some basic skills in Frontend. 
 <details>
   <summary>💻 Programming languages & Skills</summary>
   <br>
+    <p>### Programming Language</p>
     <ul>
       <li>HTML</li>
       <li>CSS (Tailwinds - basic)</li>
@@ -27,7 +28,7 @@ I'm a Backend developer with some experience and some basic skills in Frontend. 
       <li>C# (basic)</li>
     </ul>
     <br>
-    <li>Front-end Stack</li>
+    <p>>### Front-end Stack</p>
     <ul>
       <li>Reactjs (Basic)</li>
       <li>Vite (Basic)</li>
@@ -35,7 +36,7 @@ I'm a Backend developer with some experience and some basic skills in Frontend. 
       <li>Tailwind css (Basic)</li>
     </ul>
     <br>
-    <li>Back-end Stack</li>
+    <p>>### Back-end Stack</p>
     <ul>
       <li>Nodejs</li>
       <li>Expressjs</li>
@@ -43,14 +44,14 @@ I'm a Backend developer with some experience and some basic skills in Frontend. 
       <li>Koajs (Basic)</li>
     </ul>
     <br>
-    <li>Database Stack</li>
+    <p>Database Stack</p>
     <ul>
       <li>MySQL</li>
       <li>MongoDB</li>
       <li>Redis (Basic)</li>
     </ul>
     <br>
-    <li>Other Stack</li>
+    <p>Other Stack</p>
     <ul>
       <li>Ubuntu, Linux, Nginx, Pm2</li>
       <li>Digital Ocean (create cloud server for deploy and running project)</li>
