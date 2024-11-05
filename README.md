@@ -1,6 +1,6 @@
 ## 👋 Hello, My name's Paruhas Charoenrat (Bank)
 
-I'm beginner programer who start learning web development full-stack and want to learn more programing language.
+I'm a Backend developer with some experience and some basic skills in Frontend. I started by learning web development full-stack course and want to learn more programming languages to improve my skill.
 
 <details>
   <summary>📋 Personal Information</summary>
@@ -19,18 +19,44 @@ I'm beginner programer who start learning web development full-stack and want to
   <summary>💻 Programming languages & Skills</summary>
   <br>
   <ul>
-    <li>HTML, CSS, JavaScript</li>
+    <li>HTML</li>
+    <li>CSS (Tailwinds - basic)</li>
+    <li>JavaScript</li>
+    <li>TypeScript (basic)</li>
+    <li>PHP (basic)</li>
+    <li>C# (basic)</li>
+    <li>TypeScript (basic)</li>
+    <li>TypeScript (basic)</li>
+    <li>TypeScript (basic)</li>
     <br>
-    <li>Front-end Development</li>
+    <li>Front-end Stack</li>
     <ul>
-      <li>ReactJS</li>
+      <li>Reactjs (Basic)</li>
+      <li>Vite (Basic)</li>
+      <li>Nextjs (Basic)</li>
+      <li>Tailwind css (Basic)</li>
     </ul>
     <br>
-    <li>Back-end Development</li>
+    <li>Back-end Stack</li>
     <ul>
-      <li>NodeJS</li>
-      <li>ExpressJS</li>
-      <li>Database : MySQL, Sequelize</li>
+      <li>Nodejs</li>
+      <li>Expressjs</li>
+      <li>Sequelize</li>
+      <li>Koajs (Basic)</li>
+    </ul>
+    <br>
+    <li>Database Stack</li>
+    <ul>
+      <li>MySQL</li>
+      <li>MongoDB</li>
+      <li>Redis (Basic)</li>
+    </ul>
+    <br>
+    <li>Other Stack</li>
+    <ul>
+      <li>Ubuntu, Linux, Nginx, Pm2</li>
+      <li>Digital Ocean (create cloud server for deploy and running project)</li>
+      <li>Cloundflare (manage record for redirect IP to Domain name)</li>
     </ul>
     <br>
   </ul>
